@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.rent_application">
+    <uses-permission android:name="android.permission.CAMERA" />
    <application
         android:label="Управление флотом"
         android:name="${applicationName}"
